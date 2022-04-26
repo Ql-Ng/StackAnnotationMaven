@@ -15,6 +15,9 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        // assertTrue( true );
+
+        // code added to invalidate the build
+        assertTrue ( false );
     }
 }
